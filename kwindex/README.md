@@ -11,4 +11,4 @@
     - eaily run with `cargo test`
 
 - There is a small example use in: `examples/example.rs`     
-    - easily run with `cargo run -example example`
+    - easily run with `cargo run --example example`
